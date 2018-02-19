@@ -1,0 +1,54 @@
+body {
+    font-family: Lato, Arial, sans-serif;
+    margin: auto;
+    padding: 0 3em;
+}
+
+
+body > section > h1 {
+    font-size: 2em;
+}
+
+body > section > ol > li > p {
+    font-size: 1.3em;
+}
+
+body > section > ol > li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 25em;
+    border: solid;
+    border-radius: 0.75em;
+    margin-bottom: 0.5em;
+    padding-left: 1em;
+}
+
+body > section > ol > li:hover {
+    transform: scale(1.02);
+    transition: 0.2s;
+    cursor: pointer;
+    box-shadow: 0 0.2em #999999;
+    box-shadow: 0 0.3em 0.3em 0 rgba(0, 0, 0, 0.2);
+}
+
+body > section > ol > li:nth-of-type(odd) {
+    background-color: #dedede;
+}
+
+body > section > ol > li > img:first-of-type {
+    width: 2em;
+    margin-left: 0;
+    margin-right: 0.5em;
+}
+
+body > section > ol > li > img:nth-child(3) {
+    width: 3em;
+    height: 3em;
+    margin-left: auto;
+    padding-right: 1em;
+}
+
+[draggable] {
+    user-select: none;
+}
