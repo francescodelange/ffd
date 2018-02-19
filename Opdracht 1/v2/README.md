@@ -9,4 +9,6 @@ Er werd ook tegen mij gezegd dat het goed zou zijn om een hover state toe te voe
 
 Daarnaast heb ik de vormgeving ook een beetje aangepast om de verschillende items meer van elkaar af te scheiden.
 
+Ook in deze versie zit de bug waardoor afbeeldingen soms groter worden. Helaas heb ik dit niet kunnen oplossen.
+
 [Demo opdracht 1 v2](https://francescodelange.github.io/ffd/Opdracht%201/v2/ "Opdracht 1 v2")
