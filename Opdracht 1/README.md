@@ -1,6 +1,7 @@
 # Opdracht 1: Drag en drop
 
 In deze map zitten de verschillende versies van het protoype voor opdracht 1:
+
 "In een verzameling muzieknummers wil ik de volgorde kunnen veranderen om een vette playlist te maken."
 
 ### Versie 1
